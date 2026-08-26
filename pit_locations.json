@@ -1,0 +1,1954 @@
+[
+  {
+    "address": "10 E Algonquin Rd",
+    "business": "Vacant",
+    "description": "On Corner Of Arlington Heights And Algonquin Road 15 Feet South From Hydrant",
+    "lat": 42.04447,
+    "lng": -87.98273,
+    "serial": "7194403"
+  },
+  {
+    "address": "100 E Algonquin Rd",
+    "business": "Mitsuwa Marketplace Pit 1 West",
+    "description": "18 Feet East Of Arlington Heights Road Entrance 7 Feet North Of Drive",
+    "lat": 42.04532,
+    "lng": -87.98255,
+    "serial": "8025619"
+  },
+  {
+    "address": "100 E Algonquin Rd",
+    "business": "Mitsuwa Marketplace Pit 2 East",
+    "description": "On Tonne Southeast Corner Of Plaza 12 Feet From North Entrance 4 Feet From Side Walk",
+    "lat": 42.04475,
+    "lng": -87.97981,
+    "serial": "8019429"
+  },
+  {
+    "address": "125 E Algonquin Rd",
+    "business": "New London",
+    "description": "3 Feet South Of Algonquin. Located In West Curb Of Entrance.",
+    "lat": 42.04287,
+    "lng": -87.97997,
+    "serial": "5990575"
+  },
+  {
+    "address": "155 E Algonquin Rd",
+    "business": "Daily Herald",
+    "description": "10 Feet West Of Tollway Herald Sign.",
+    "lat": 42.03981,
+    "lng": -87.98045,
+    "serial": "7045903"
+  },
+  {
+    "address": "222 E Algonquin Rd",
+    "business": "Boston Blackies Pit 60 W Endpoints",
+    "description": "8 Feet From North Side Of Building Large Lid",
+    "lat": 42.04327,
+    "lng": -87.97883,
+    "serial": "7236441"
+  },
+  {
+    "address": "475 E Algonquin Rd",
+    "business": "W.W.Grainger",
+    "description": "45 Feet South Of Algonquin.  30 Feet East Of West Entrance.",
+    "lat": 42.04179,
+    "lng": -87.97745,
+    "serial": "6092153"
+  },
+  {
+    "address": "545 E Algonquin Rd",
+    "business": "Acg- Golden Corridor Llc",
+    "description": "15 Feet From South Of Algonquin Road 11 Feet From 545 Sign",
+    "lat": 42.04165,
+    "lng": -87.97661,
+    "serial": "8025614"
+  },
+  {
+    "address": "22 W Algonquin Rd",
+    "business": "Red Roof Inn #102",
+    "description": "10 Feet North Of Algonquin Road. 30 Feet Southeast Of Red Roof Sign.",
+    "lat": 42.04473,
+    "lng": -87.98399,
+    "serial": "7098134"
+  },
+  {
+    "address": "75 W Algonquin Rd",
+    "business": "Double Tree Hotel",
+    "description": "18 Feet South Of Algonquin Road. 33 Feet West Of Denny'S Entrance.",
+    "lat": 42.04452,
+    "lng": -87.9847,
+    "serial": "6043430"
+  },
+  {
+    "address": "85 W Algonquin Rd",
+    "business": "Hamilton Partners",
+    "description": "Directly South Of Building Near Expressway Fence.",
+    "lat": 42.04319,
+    "lng": -87.98816,
+    "serial": "6043428"
+  },
+  {
+    "address": "95 W Algonquin Rd",
+    "business": "Hamilton Partners",
+    "description": "45 Feet Directly West Of Northwest Corner Of Building.",
+    "lat": 42.04557,
+    "lng": -87.98698,
+    "serial": "7045933"
+  },
+  {
+    "address": "100 W Algonquin Rd",
+    "business": "Marriot Hotel",
+    "description": "100 Feet West Of Marriot Sign. 15 Feet North Of Algonquin Road.",
+    "lat": 42.04531,
+    "lng": -87.98548,
+    "serial": "7147721"
+  },
+  {
+    "address": "412 W Algonquin Rd",
+    "business": "Arlington Heights Animal Hospital",
+    "description": "57 Feet East Of Hospital Sign",
+    "lat": 42.04651,
+    "lng": -87.98739,
+    "serial": "9307247"
+  },
+  {
+    "address": "441 W Algonquin Rd",
+    "business": "Motel 6",
+    "description": "50 Feet Northeast Of Building Next To Hydrant.",
+    "lat": 42.04637,
+    "lng": -87.98787,
+    "serial": "7203871"
+  },
+  {
+    "address": "550 W Algonquin Rd",
+    "business": "Pace Bus",
+    "description": "Pit Near West Drive",
+    "lat": 42.04764,
+    "lng": -87.98828,
+    "serial": "00809322"
+  },
+  {
+    "address": "700 W Algonquin Rd",
+    "business": "Arlington Center",
+    "description": "30 Feet From Southeast Corner Of Building",
+    "lat": 42.04979,
+    "lng": -87.99128,
+    "serial": "D5398257"
+  },
+  {
+    "address": "703 W Algonquin Rd",
+    "business": "L.B. Anderson",
+    "description": "40 Feet North East From Corner Of Building. 55 Feet From Algonquin Road.",
+    "lat": 42.04866,
+    "lng": -87.99055,
+    "serial": "5470784"
+  },
+  {
+    "address": "711 W Algonquin Rd",
+    "business": "Weber Marking Systems",
+    "description": "East Side Of Building Next To Stand Pipe In Parking Lot. 80 Feet East Of Dock Door.",
+    "lat": 42.04778,
+    "lng": -87.99288,
+    "serial": "5195080"
+  },
+  {
+    "address": "980 W Algonquin Rd Ut",
+    "business": "St. Andrews Property Inc. East Pit  60 W Endpoints",
+    "description": "East End Of Parking Lot 1 Foot From Sidewalk. 160 Feet Southwest From Building Near Algonquin Road.",
+    "lat": 42.0525,
+    "lng": -87.99501,
+    "serial": "5156284"
+  },
+  {
+    "address": "990 W Algonquin Rd Ut",
+    "business": "St Andrews Property Inc. Northwest Pit 60 W Endpoints",
+    "description": "Across From 1602 North Kennicott  35 Feet East Of Kennicott Curb Located In Grass",
+    "lat": 42.05522,
+    "lng": -87.99566,
+    "serial": "D5156283"
+  },
+  {
+    "address": "1000 W Algonquin Rd Ut",
+    "business": "St Andrews Property Inc. Lowes Pit 60 W Endpoints",
+    "description": "Southwest Corner Of Lowes Building 2 Manholes",
+    "lat": 42.05437,
+    "lng": -87.99646,
+    "serial": "00509300"
+  },
+  {
+    "address": "1508 E Arbor Ln Ut",
+    "business": "Townhomes",
+    "description": "",
+    "lat": 42.10986,
+    "lng": -87.96411,
+    "serial": "13911882"
+  },
+  {
+    "address": "1200 N Arlington Heights Rd",
+    "business": "Rehabilitation Home",
+    "description": "Near Arlington Heights Road In Grass",
+    "lat": 42.09782,
+    "lng": -87.98059,
+    "serial": "14495165"
+  },
+  {
+    "address": "1625 S Arlington Heights Rd",
+    "business": "Autumn Leaves",
+    "description": "Sw Corner Of Property",
+    "lat": 42.05425,
+    "lng": -87.98134,
+    "serial": "14356220"
+  },
+  {
+    "address": "1912 N Arlington Heights Rd.",
+    "business": "Selis Restaurant/Palm Court 60W Erts",
+    "description": "",
+    "lat": 42.11066,
+    "lng": -87.98065,
+    "serial": "DD6027499"
+  },
+  {
+    "address": "3385 N Arlington Heights Rd.",
+    "business": "Arlington Atrium Llc Pit 2 60 W Endpoints",
+    "description": "",
+    "lat": 42.13583,
+    "lng": -87.98306,
+    "serial": "7003759"
+  },
+  {
+    "address": "3385 N Arlington Heights Rd.",
+    "business": "Arlington Atrium Llc Pit 1 60 W Endpoints",
+    "description": "",
+    "lat": 42.13645,
+    "lng": -87.98392,
+    "serial": "D7003671"
+  },
+  {
+    "address": "4212 N Arlington Heights Rd.",
+    "business": "Terramere Plaza 60 W Endpoints",
+    "description": "Located Near Ah Road Strip Mall Sign. Feeds Main Building Only",
+    "lat": 42.15248,
+    "lng": -87.98535,
+    "serial": "D6054313"
+  },
+  {
+    "address": "817 S Arlington Heights Rd.",
+    "business": "John Gilmore",
+    "description": "70 Feet North Of Driveway At 817 South Arlington Heights Road.",
+    "lat": 42.06954,
+    "lng": -87.98029,
+    "serial": "98983510"
+  },
+  {
+    "address": "823 S Arlington Heights Rd.",
+    "business": "Melvin Kehe 60 W Endpoints",
+    "description": "823 South Arlington Heights Road. 10 Feet From Hydrant",
+    "lat": 42.06924,
+    "lng": -87.98026,
+    "serial": "91459556"
+  },
+  {
+    "address": "827 S Arlington Heights Rd.",
+    "business": "Resident-Feeds 827 South Arlington Hts.",
+    "description": "823 South Arlington 11 Feet South Of Driveway In Sidewalk",
+    "lat": 42.06907,
+    "lng": -87.98025,
+    "serial": "06705634"
+  },
+  {
+    "address": "1730 S Arlington Heights Rd.",
+    "business": "Park Place Condominium",
+    "description": "12 Feet South Of Entrance 12 Feet West Of Arlington Heights Road.",
+    "lat": 42.05339,
+    "lng": -87.982,
+    "serial": "7063172"
+  },
+  {
+    "address": "1850 S Arlington Heights Rd.",
+    "business": "Osco Drug",
+    "description": "22 Northwest Of Jewel Sign. 18 Feet Southwest Of Hydrant",
+    "lat": 42.05227,
+    "lng": -87.98218,
+    "serial": "9708626"
+  },
+  {
+    "address": "1860 S Arlington Heights Rd.",
+    "business": "Jewel Food Store",
+    "description": "140 Feet West Of Jewel Sign 5 Feet North Of Sidewalk On Golf",
+    "lat": 42.05156,
+    "lng": -87.98437,
+    "serial": "9708826"
+  },
+  {
+    "address": "2015 S Arlington Heights Rd.",
+    "business": "Brian Properties Pit 2",
+    "description": "11 Feet East Of Arlington Heights Road 3 Feet South Of Entrance",
+    "lat": 42.04823,
+    "lng": -87.98212,
+    "serial": "6034289"
+  },
+  {
+    "address": "2015 S Arlington Heights Rd.",
+    "business": "Brian Properties Pit 1",
+    "description": "Seegers Entrance 24 Feet From Seegers West Side Of Entrance",
+    "lat": 42.04929,
+    "lng": -87.98117,
+    "serial": "6034288"
+  },
+  {
+    "address": "2101 S Arlington Heights Rd.",
+    "business": "Arlington Associates",
+    "description": "8 Feet Northwest Of Building",
+    "lat": 42.04753,
+    "lng": -87.982,
+    "serial": "7108882"
+  },
+  {
+    "address": "2120 S Arlington Heights Rd.",
+    "business": "Holiday Inn Express",
+    "description": "North East Corner Of Building",
+    "lat": 42.04658,
+    "lng": -87.98292,
+    "serial": "7123301"
+  },
+  {
+    "address": "2340 S Arlington Heights Rd.",
+    "business": "Mitroff Companies",
+    "description": "108 Feet South Of Algonquin.  5 Feet West Of Denny'S Entrance.",
+    "lat": 42.04428,
+    "lng": -87.98468,
+    "serial": "5541499"
+  },
+  {
+    "address": "1630 E Avon Ct.",
+    "business": "Arlington On The Ponds-North 60 W Endpoints",
+    "description": "",
+    "lat": 42.10687,
+    "lng": -87.96231,
+    "serial": "7203879"
+  },
+  {
+    "address": "450 S Banbury Rd",
+    "business": "Lawn Meter Actual Address 450 East Park",
+    "description": "Irrigation Meter In Pit Front Lawn",
+    "lat": 42.07555,
+    "lng": -87.9759,
+    "serial": "05917920"
+  },
+  {
+    "address": "2622 E Bel-Aire Dr.",
+    "business": "W.L. Seymore 60 W Endpoints",
+    "description": "",
+    "lat": 42.08258,
+    "lng": -87.95058,
+    "serial": "07912644"
+  },
+  {
+    "address": "760 S Belmont Av Ut",
+    "business": "Kross",
+    "description": "Actual Location 817 South Arlington Heights Road",
+    "lat": 42.06954,
+    "lng": -87.98029,
+    "serial": "D98269146"
+  },
+  {
+    "address": "768 S Belmont Av Ut",
+    "business": "Feeds 768 South Belmont",
+    "description": "Feeds 768 South Belmont Ave.                             823 South Arlington 11 Feet South Of Driveway In Sidewalk",
+    "lat": 42.06907,
+    "lng": -87.98025,
+    "serial": "05914913"
+  },
+  {
+    "address": "834 S Belmont Av Ut",
+    "business": "Occupant 60 W Endpoints",
+    "description": "Located In Same Pit As 210 East Orchard",
+    "lat": 42.06877,
+    "lng": -87.98026,
+    "serial": "06705645"
+  },
+  {
+    "address": "1625 N Belmont Av.",
+    "business": "Courtyards Of Arlington Pit 1 60 W Endpoints",
+    "description": "West Pit Near 1689 North Belmont",
+    "lat": 42.10647,
+    "lng": -87.97787,
+    "serial": "7116919"
+  },
+  {
+    "address": "1625 N Belmont Ct",
+    "business": "Courtyards Of Arlington Pit 2 60 W Endpoints",
+    "description": "East Pit Near Douglas Entrance",
+    "lat": 42.10643,
+    "lng": -87.97782,
+    "serial": "7091534"
+  },
+  {
+    "address": "1 N Beverly Ln Ut",
+    "business": "Arlington Crossing",
+    "description": "Arlington  Crossing",
+    "lat": 42.08179,
+    "lng": -87.973,
+    "serial": "10908912"
+  },
+  {
+    "address": "4165 N Bloomington Av.",
+    "business": "Arbor Lakes Pit 2 60 W Endpoints",
+    "description": "Pit 2",
+    "lat": 42.15116,
+    "lng": -88.00468,
+    "serial": "7135663"
+  },
+  {
+    "address": "4233 N Bloomington Av.",
+    "business": "Arbor Lakes Pit 1 60 W Endpoints",
+    "description": "Pit 1",
+    "lat": 42.15346,
+    "lng": -88.00467,
+    "serial": "7135665"
+  },
+  {
+    "address": "99 W Campbell St",
+    "business": "Vail Park 60 W Endpoints",
+    "description": "Vail And Campbell",
+    "lat": 42.08232,
+    "lng": -87.98397,
+    "serial": "00715689"
+  },
+  {
+    "address": "1601 W Campbell St.",
+    "business": "Essense Of Europe",
+    "description": "D/C Meter  West End Of Building 11 Feet From Sidewalk In Driveway.",
+    "lat": 42.08159,
+    "lng": -88.0046,
+    "serial": "7070969"
+  },
+  {
+    "address": "530 W Campus Dr.",
+    "business": "Arlington Commons 60 W Endpoints",
+    "description": "",
+    "lat": 42.13532,
+    "lng": -87.99134,
+    "serial": "5470783"
+  },
+  {
+    "address": "811 E Central Rd.",
+    "business": "The Moorings Pit 1",
+    "description": "",
+    "lat": 42.06638,
+    "lng": -87.97439,
+    "serial": "7123292"
+  },
+  {
+    "address": "811 E Central Rd.",
+    "business": "The Moorings  Pit 2",
+    "description": "",
+    "lat": 42.06304,
+    "lng": -87.97485,
+    "serial": "7123293"
+  },
+  {
+    "address": "1351 E Central Rd.",
+    "business": "Crown Point Villas Tnhm Assc.",
+    "description": "",
+    "lat": 42.06619,
+    "lng": -87.96648,
+    "serial": "9701868"
+  },
+  {
+    "address": "1551 E Central Rd.",
+    "business": "Central Park East Apts. Pit 2",
+    "description": "",
+    "lat": 42.06624,
+    "lng": -87.96206,
+    "serial": "7123298"
+  },
+  {
+    "address": "1551 E Central Rd.",
+    "business": "Central Park East Apts. Pit 1",
+    "description": "",
+    "lat": 42.06632,
+    "lng": -87.96585,
+    "serial": "7123307"
+  },
+  {
+    "address": "800 W Central Rd.",
+    "business": "Nw Community Hospital Has Remotes Pit On Kirchoff Side 60 W Endpoints",
+    "description": "Pit Near Kirchoff Road North Of Hospital",
+    "lat": 42.07025,
+    "lng": -87.99363,
+    "serial": "5223977"
+  },
+  {
+    "address": "800 W Central Rd.",
+    "business": "Nw Community Hospital Has Remotes 60 W Endpoints",
+    "description": "Pit Located Nw Corner Of Central And Fernandez",
+    "lat": 42.06677,
+    "lng": -87.9915,
+    "serial": "5223978"
+  },
+  {
+    "address": "900 W Central Rd.",
+    "business": "Nw Community Hospital  Wellness Center Has Remotes 60 W Endpoints",
+    "description": "Wellness Center Pit Near Central Road Se Corner Of Building",
+    "lat": 42.06681,
+    "lng": -87.99435,
+    "serial": "9503793"
+  },
+  {
+    "address": "1515 W Central Rd.",
+    "business": "Headquarters 88Th Rsc",
+    "description": "",
+    "lat": 42.06642,
+    "lng": -87.99805,
+    "serial": "9404796"
+  },
+  {
+    "address": "1700 W Central Rd.",
+    "business": "Trancel Corp.",
+    "description": "",
+    "lat": 42.06682,
+    "lng": -88.00351,
+    "serial": "7194352"
+  },
+  {
+    "address": "2052 N Charter Point Dr",
+    "business": "Lake Arlington Towne Pit 4 50 W Endpoints",
+    "description": "Actual Location 2060 North Charter Point Dr",
+    "lat": 42.11293,
+    "lng": -87.95013,
+    "serial": "D7123265"
+  },
+  {
+    "address": "2052 N Charter Point Dr",
+    "business": "Lake Arlington Towne Pit 5 60 W Endpoints",
+    "description": "Actual Location 2050 Cold Springs Rd",
+    "lat": 42.11251,
+    "lng": -87.94792,
+    "serial": "D7155390"
+  },
+  {
+    "address": "2301 N Chestnut Av",
+    "business": "Feeds 2300 Com Ed Right Of Way Building 60 W Endpoints",
+    "description": "Actual Location 2301 North Chestnut Ave. 40 Feet From Road",
+    "lat": 42.11847,
+    "lng": -87.98523,
+    "serial": "0618324"
+  },
+  {
+    "address": "2636 E Clearbrook Dr",
+    "business": "Boyer Rosene  50W Erts",
+    "description": "In Parkway",
+    "lat": 42.03751,
+    "lng": -87.9747,
+    "serial": "7121291"
+  },
+  {
+    "address": "151 E Country Ln Ut",
+    "business": "Lexington Heritage Town Homes",
+    "description": "Pit One Of Two",
+    "lat": 42.13556,
+    "lng": -87.98087,
+    "serial": "G17296787"
+  },
+  {
+    "address": "1652 N Courtland Dr.",
+    "business": "Arlington On The Ponds-South 60 W Endpoints",
+    "description": "",
+    "lat": 42.1067,
+    "lng": -87.9623,
+    "serial": "7194500"
+  },
+  {
+    "address": "2210 S Crambourne Way",
+    "business": "South Pit Arlington Reserve 60 W Endpoints",
+    "description": "",
+    "lat": 42.04614,
+    "lng": -87.98602,
+    "serial": "702319"
+  },
+  {
+    "address": "3100 N Daniels Ct",
+    "business": "Townhomes Of Frenchmans Cove Pit 2 60 W Endpoints",
+    "description": "Pit 2 South",
+    "lat": 42.1326,
+    "lng": -87.97266,
+    "serial": "7123297"
+  },
+  {
+    "address": "3215 N Daniels Ct",
+    "business": "Townhomes Of Frenchmans Cove Pit 1 60 W Endpoints",
+    "description": "Actual Location 3249 Daniels Ct. Pit 1 North",
+    "lat": 42.13461,
+    "lng": -87.97307,
+    "serial": "7114463"
+  },
+  {
+    "address": "1442 E Davis St Ut",
+    "business": "Arlington Heights Park District",
+    "description": "Square Lid 21 Feet South Of Davis.  In Front Of Building.",
+    "lat": 42.07488,
+    "lng": -87.96375,
+    "serial": "5363153"
+  },
+  {
+    "address": "1420 E Davis St.",
+    "business": "Tower Plastics Dc Meter",
+    "description": "",
+    "lat": 42.0753,
+    "lng": -87.96473,
+    "serial": "36577591"
+  },
+  {
+    "address": "1440 E Davis St.",
+    "business": "Arlington Heights Park District Abandoned",
+    "description": "Small Pit In Drive. 222 Feet South Of Davis 44 Feet East Of The 1436 Building.",
+    "lat": 42.075,
+    "lng": -87.96396,
+    "serial": "10894112"
+  },
+  {
+    "address": "1440 E Davis St.",
+    "business": "Arlington Heights Park District Abandoned",
+    "description": "Square Lid North East Corner Of 1430 E. Davis. Abandoned 4 Feet From Driveway Next To Fire Stack",
+    "lat": 42.07421,
+    "lng": -87.96397,
+    "serial": "90258797"
+  },
+  {
+    "address": "2 N Dryden Av Ut",
+    "business": "Arlington Crossing",
+    "description": "Arlington Crossing",
+    "lat": 42.08178,
+    "lng": -87.97098,
+    "serial": "10908913"
+  },
+  {
+    "address": "15 E Dundee Rd",
+    "business": "Mc Donalds",
+    "description": "",
+    "lat": 42.13889,
+    "lng": -87.9814,
+    "serial": "14390545"
+  },
+  {
+    "address": "910 W Dundee Rd",
+    "business": "Ridge Plaza Pit 3 Northeast 60 W Endpoints",
+    "description": "Pit 3 Northeast",
+    "lat": 42.14143,
+    "lng": -87.99133,
+    "serial": "DD0108282"
+  },
+  {
+    "address": "910 W Dundee Rd",
+    "business": "Ridge Plaza Pit 2 Northwest 60 W Endpoints",
+    "description": "Pit 2 Northwest",
+    "lat": 42.14158,
+    "lng": -87.99458,
+    "serial": "D7135642"
+  },
+  {
+    "address": "910 W Dundee Rd",
+    "business": "Ridge Plaza Pit 1 Southeast 60 W Endpoints",
+    "description": "Pit 1 Southeast",
+    "lat": 42.13956,
+    "lng": -87.99152,
+    "serial": "D7135664"
+  },
+  {
+    "address": "1100 W Dundee Rd",
+    "business": "Nissan Car Dealer",
+    "description": "Pit Located 50 Yards North East Of Building",
+    "lat": 42.14061,
+    "lng": -87.99574,
+    "serial": "0617994"
+  },
+  {
+    "address": "1510 W Dundee Rd",
+    "business": "Bob Rorhman Auto Mall",
+    "description": "Near Stop Light On Wilke Road.",
+    "lat": 42.14089,
+    "lng": -88.00281,
+    "serial": "00810231"
+  },
+  {
+    "address": "1520 W Dundee Rd",
+    "business": "Bob Rohrman Auto Group",
+    "description": "Near Stop Light On Wilke Road",
+    "lat": 42.1409,
+    "lng": -88.00281,
+    "serial": "00601072"
+  },
+  {
+    "address": "1530 W Dundee Rd",
+    "business": "Rohrman Auto Group",
+    "description": "In Parking Lot",
+    "lat": 42.14203,
+    "lng": -88.00387,
+    "serial": "NO METER"
+  },
+  {
+    "address": "1155 W Dundee Rd.",
+    "business": "North Arlington Atrium South Pit 2 60W Erts",
+    "description": "Pit 2 South",
+    "lat": 42.13714,
+    "lng": -87.99705,
+    "serial": "6057918"
+  },
+  {
+    "address": "1155 W Dundee Rd.",
+    "business": "North Arlington Atrium North Pit 1 60W Erts",
+    "description": "Pit 1 North",
+    "lat": 42.13882,
+    "lng": -87.99707,
+    "serial": "6043425"
+  },
+  {
+    "address": "1331 W Dundee Rd.",
+    "business": "Jamesons Char House 60 W Erts",
+    "description": "",
+    "lat": 42.13873,
+    "lng": -87.9984,
+    "serial": "7012564"
+  },
+  {
+    "address": "1415 W Dundee Rd.",
+    "business": "La Quinta Hotel 60 W Endpoints",
+    "description": "",
+    "lat": 42.13882,
+    "lng": -87.99936,
+    "serial": "72366416"
+  },
+  {
+    "address": "700 S Dwyer Av",
+    "business": "Park District Ball Field",
+    "description": "20 Feet East Of Rpz Hotbox",
+    "lat": 42.0717,
+    "lng": -87.99899,
+    "serial": "90044949"
+  },
+  {
+    "address": "500 S Dwyer Av.",
+    "business": "Westgate School Dist 25",
+    "description": "",
+    "lat": 42.07738,
+    "lng": -87.99896,
+    "serial": "9406152"
+  },
+  {
+    "address": "979 W Essex Pl Ut",
+    "business": "Pit Two Essex Place West 60 W Endpoints",
+    "description": "West Pit Round Small Lid Actual Location 955 West Essex Ut",
+    "lat": 42.12405,
+    "lng": -87.99429,
+    "serial": "D7123309"
+  },
+  {
+    "address": "979 W Essex Pl Ut",
+    "business": "Pit One Essex Place East 60 W Endpoints",
+    "description": "East Pit Round Small Lid",
+    "lat": 42.12391,
+    "lng": -87.99295,
+    "serial": "D7123294"
+  },
+  {
+    "address": "2980 W Euclid Av Ut",
+    "business": "Esplanade Strip Mall",
+    "description": "Located Near Salt Creek Lane",
+    "lat": 42.08932,
+    "lng": -88.02045,
+    "serial": "00809823"
+  },
+  {
+    "address": "1212 E Euclid Av.",
+    "business": "Brother Dodd'S",
+    "description": "",
+    "lat": 42.0884,
+    "lng": -87.96774,
+    "serial": "6092580"
+  },
+  {
+    "address": "2501 E Euclid Av.",
+    "business": "Memory Gardens",
+    "description": "",
+    "lat": 42.08793,
+    "lng": -87.94985,
+    "serial": "D7194441"
+  },
+  {
+    "address": "2000 W Euclid Av.",
+    "business": "Arlington Park O.T.B. 100 W Endpoints",
+    "description": "In Front Of 2000 West Euclid  4 Feet West Of Entrance 19 Feet From Euclid.",
+    "lat": 42.08848,
+    "lng": -88.00714,
+    "serial": "DD7123283"
+  },
+  {
+    "address": "315 N Evergreen Av.",
+    "business": "North School Park 60 W Endpoints",
+    "description": "100 Feet West Of Fountain",
+    "lat": 42.08604,
+    "lng": -87.98158,
+    "serial": "7222836"
+  },
+  {
+    "address": "2120 S Goebbert Rd.",
+    "business": "Tvo Tanglewood Llc Pit 2",
+    "description": "27 Feet East Of Tonne Near 2175 Tonne",
+    "lat": 42.04624,
+    "lng": -87.97958,
+    "serial": "5124605"
+  },
+  {
+    "address": "2120 S Goebbert Rd.",
+    "business": "Tvo Tanglewood Llc  Pit 1",
+    "description": "Center Of Main Entrance 3 Feet From Side Walk By Valve Indicator",
+    "lat": 42.04734,
+    "lng": -87.97503,
+    "serial": "5088883"
+  },
+  {
+    "address": "2121 S Goebbert Rd.",
+    "business": "Forest View Administration  Center In Back",
+    "description": "Between Building And Tennis Courts  26 Feet From Building 13 Feet From Fence       Need Key",
+    "lat": 42.0451,
+    "lng": -87.97391,
+    "serial": "6054576"
+  },
+  {
+    "address": "2414 S Goebbert Rd.",
+    "business": "Ahston Apartments",
+    "description": "On Falcon Drive 23 Feet South Of West Entrance  14 Feet From Building",
+    "lat": 42.04398,
+    "lng": -87.97898,
+    "serial": "7135631"
+  },
+  {
+    "address": "2414 S Goebbert Rd.",
+    "business": "Ahston Apartments",
+    "description": "North Entrance 2Nd Parking Spot 22 Feet From Building 34 Feet From Goebbert Curb. In Front Of 2396 South Goebbert.",
+    "lat": 42.04313,
+    "lng": -87.97513,
+    "serial": "7147637"
+  },
+  {
+    "address": "5 E Golf Rd.",
+    "business": "Stafford Place",
+    "description": "",
+    "lat": 42.05116,
+    "lng": -87.98077,
+    "serial": "D7155362"
+  },
+  {
+    "address": "26 E Golf Rd.",
+    "business": "International Plaza West Pit",
+    "description": "Behind 148 East Golf 10 Feet East Of Golf Rd.",
+    "lat": 42.05223,
+    "lng": -87.97977,
+    "serial": "7194439"
+  },
+  {
+    "address": "140 E Golf Rd.",
+    "business": "International Plaza East Pit",
+    "description": "Ne Corner Of Property Behind Building 25 Feet From Curb.",
+    "lat": 42.0537,
+    "lng": -87.97739,
+    "serial": "7194497"
+  },
+  {
+    "address": "606 E Golf Rd.",
+    "business": "Affiliated Realty   Strip Mall 600-606",
+    "description": "East Side Of Building 6 Feet South Of Building",
+    "lat": 42.05195,
+    "lng": -87.97308,
+    "serial": "7108814"
+  },
+  {
+    "address": "700 E Golf Rd.",
+    "business": "Linden Place West Pit",
+    "description": "17 Feet From Curb Before Complex Entrance East Side",
+    "lat": 42.05232,
+    "lng": -87.97476,
+    "serial": "7045887"
+  },
+  {
+    "address": "730 E Golf Rd.",
+    "business": "Linden Place East Pit",
+    "description": "East End Of Parking Lot 15 Feet From Curb Near Transformer",
+    "lat": 42.05229,
+    "lng": -87.97298,
+    "serial": "7003664"
+  },
+  {
+    "address": "903 E Golf Rd.",
+    "business": "The Mansions South Pit 2",
+    "description": "Across From 925 Building In Parking Island Salvatore Dimucci & Company",
+    "lat": 42.04918,
+    "lng": -87.9728,
+    "serial": "6092152"
+  },
+  {
+    "address": "903 E Golf Rd.",
+    "business": "The Mansions North Pit 1 60 W Endpoints",
+    "description": "Meier And Golf",
+    "lat": 42.05035,
+    "lng": -87.97046,
+    "serial": "7131077"
+  },
+  {
+    "address": "9 W Golf Rd.",
+    "business": "Arlington Town Square",
+    "description": "West Entrance 1 Foot East Of Drive. Looped With Meter Above Ground 13 Feet South Of Golf Rd. Strip Mall. Northwest Corner Of Building",
+    "lat": 42.05124,
+    "lng": -87.98492,
+    "serial": "7155387"
+  },
+  {
+    "address": "401 W Golf Rd.",
+    "business": "Scientific Animal Feeds",
+    "description": "57 Feet West Of Store 90 Feet North Of Warehouse",
+    "lat": 42.05055,
+    "lng": -87.98608,
+    "serial": "8020687"
+  },
+  {
+    "address": "415 W Golf Rd.",
+    "business": "Transcon Builders",
+    "description": "East Entrance 7 Feet West Of Drive. 45 Feet South Of Golf Road.",
+    "lat": 42.0512,
+    "lng": -87.98705,
+    "serial": "5490910"
+  },
+  {
+    "address": "501 W Golf Rd.",
+    "business": "Arlington Center",
+    "description": "East Entrance 7 Feet East Of Drive. 45 Feet South  Of Golf. North  Of 415 West Golf.",
+    "lat": 42.0512,
+    "lng": -87.98753,
+    "serial": "5398256"
+  },
+  {
+    "address": "601 W Happfield Dr",
+    "business": "Waterford Place Pit 1 60 W Endpoints",
+    "description": "Sw Corner Of Ridge And Happfield",
+    "lat": 42.14313,
+    "lng": -87.99055,
+    "serial": "7194499"
+  },
+  {
+    "address": "639 W Happfield Dr",
+    "business": "Waterford Place Pit 2 60 W Endpoints",
+    "description": "",
+    "lat": 42.14208,
+    "lng": -87.99074,
+    "serial": "7194496"
+  },
+  {
+    "address": "940 W Happfield Dr",
+    "business": "Westridge Condo Pit 1 60 W Endpoints",
+    "description": "Nw Corner Of Happfield And Kennicott Square Lid",
+    "lat": 42.14337,
+    "lng": -87.99102,
+    "serial": "D7194484"
+  },
+  {
+    "address": "960 W Happfield Dr",
+    "business": "Westridge Condo Pit 2 60 W Endpoints",
+    "description": "Ne Corner Of Happfield And Kennicott Square Lid",
+    "lat": 42.14337,
+    "lng": -87.99455,
+    "serial": "D7123314"
+  },
+  {
+    "address": "843 W Happfield Dr Ut001",
+    "business": "Westridge Condo Iv Pit 1 South East 60 W Endpoints",
+    "description": "",
+    "lat": 42.14187,
+    "lng": -87.99125,
+    "serial": "7123223"
+  },
+  {
+    "address": "843 W Happfield Dr Ut002",
+    "business": "Westridge Condo Iv  Pit 2 North West 60 W Endpoints",
+    "description": "Se Corner Of Happfield And Kennicott",
+    "lat": 42.14312,
+    "lng": -87.99453,
+    "serial": "D8017219"
+  },
+  {
+    "address": "177 N Hickory Av",
+    "business": "Hickory Row Homes 60 W Erts",
+    "description": "Southwest Corner Of Property",
+    "lat": 42.08456,
+    "lng": -87.97431,
+    "serial": "00703862"
+  },
+  {
+    "address": "1927 N Highland Av",
+    "business": "Enclaves Pit 2 West  100 W Erts",
+    "description": "Corner Of Wheeler And Highland",
+    "lat": 42.1117,
+    "lng": -87.98579,
+    "serial": "D7236402"
+  },
+  {
+    "address": "400 S Highland Av.",
+    "business": "South Jr. High School District 25",
+    "description": "Off South Street 7 Feet North Of Sidewalk In Parking Lot",
+    "lat": 42.07817,
+    "lng": -87.98573,
+    "serial": "09601643"
+  },
+  {
+    "address": "1600 E Hintz Rd.",
+    "business": "Aspen Place Pit 2 East 60 W Endpoints",
+    "description": "",
+    "lat": 42.12477,
+    "lng": -87.96383,
+    "serial": "D9609714"
+  },
+  {
+    "address": "1600 E Hintz Rd.",
+    "business": "Aspen Place Pit 1 West 60 W Endpoints",
+    "description": "",
+    "lat": 42.12464,
+    "lng": -87.9626,
+    "serial": "D9609841"
+  },
+  {
+    "address": "2575 E Hunter Dr",
+    "business": "Lake Arlington Towne Pit 8 50W-2",
+    "description": "Actual Location 2034 Cold Spring Rd",
+    "lat": 42.11218,
+    "lng": -87.94883,
+    "serial": "D7200186"
+  },
+  {
+    "address": "2575 E Hunter Dr",
+    "business": "Lake Arlington Towne Pit 6 60 W Endpoints",
+    "description": "Actual Location 2452 East Hunter Dr",
+    "lat": 42.11068,
+    "lng": -87.95306,
+    "serial": "D7200190"
+  },
+  {
+    "address": "2575 E Hunter Dr",
+    "business": "Lake Arlington Towne Pit 7 60 W Endpoints",
+    "description": "Actual Location 2027 Charter Point Dr",
+    "lat": 42.11245,
+    "lng": -87.95019,
+    "serial": "DD7200191"
+  },
+  {
+    "address": "208 W Hyde St",
+    "business": "North Pit Arlington Reserve 60 W Endpoints",
+    "description": "",
+    "lat": 42.04736,
+    "lng": -87.98631,
+    "serial": "703667"
+  },
+  {
+    "address": "2300 N Juniper Ln",
+    "business": "Arlington Grove East Pit 2 60 W Endpoints",
+    "description": "",
+    "lat": 42.11375,
+    "lng": -87.9873,
+    "serial": "D7123296"
+  },
+  {
+    "address": "2300 N Juniper Ln",
+    "business": "Arlington Grove West Pit 1 60 W Endpoints",
+    "description": "Chestnut And Juniper",
+    "lat": 42.11271,
+    "lng": -87.98583,
+    "serial": "D7123290"
+  },
+  {
+    "address": "1504 N Kendal Ct.",
+    "business": "Arlington On The Ponds 60 W Endpoints",
+    "description": "",
+    "lat": 42.10288,
+    "lng": -87.96334,
+    "serial": "7182440"
+  },
+  {
+    "address": "1250 N Kennicott Av.",
+    "business": "Pam Stocking Memorial 60 W Endpoints",
+    "description": "Watling And Kennicott Under Sherwood Sign",
+    "lat": 42.09977,
+    "lng": -87.99522,
+    "serial": "96329514"
+  },
+  {
+    "address": "3401 N Kennicott Av.",
+    "business": "Arlington Heights Office Center 60 W Endpoints",
+    "description": "",
+    "lat": 42.1372,
+    "lng": -87.99584,
+    "serial": "5882965"
+  },
+  {
+    "address": "909 W Kirchoff Rd.",
+    "business": "Nw Community Hospital Continuing Care Center   Has Remotes 60 W Endpoints",
+    "description": "Continuing Care Center Pit Near Kirchoff North Of Building",
+    "lat": 42.07084,
+    "lng": -87.99516,
+    "serial": "7131054"
+  },
+  {
+    "address": "2102 N Lake Shore Circle",
+    "business": "Lake Arlington Towne Pit 3 50W-2",
+    "description": "Actual Location 2102 North Lake Shore Circle",
+    "lat": 42.1136,
+    "lng": -87.95097,
+    "serial": "D7200172"
+  },
+  {
+    "address": "2132 N Lake Shore Cr",
+    "business": "Irrigation Meter Sub Meter Of Pit Location 84070",
+    "description": "In Meter Pit",
+    "lat": 42.11419,
+    "lng": -87.95145,
+    "serial": "17163755"
+  },
+  {
+    "address": "910 S Mckinley Rd.",
+    "business": "S. Laxgang",
+    "description": "",
+    "lat": 42.068,
+    "lng": -87.96743,
+    "serial": "5470788"
+  },
+  {
+    "address": "1101 E Miner St.",
+    "business": "Miner School District 25",
+    "description": "",
+    "lat": 42.0845,
+    "lng": -87.96962,
+    "serial": "89027732"
+  },
+  {
+    "address": "300 W Miner St.",
+    "business": "West Miner Condo Association 60 W Endpoints",
+    "description": "Next To Building Near  Exposed Shut Off Valve",
+    "lat": 42.08493,
+    "lng": -87.98716,
+    "serial": "5084900"
+  },
+  {
+    "address": "300 W Miner St.",
+    "business": "West Miner Condo Association  Pit 2 Northwest 60 W Endpoints",
+    "description": "Somerset And Eastman In Front Of 366 West Miner. Near Exposed Shut Off Valve.",
+    "lat": 42.08555,
+    "lng": -87.98805,
+    "serial": "5145091"
+  },
+  {
+    "address": "1306 S New Wilke Rd.",
+    "business": "Surrey Park Homeowners Assoc. East Pit 1 60 W Endpoints",
+    "description": "",
+    "lat": 42.06022,
+    "lng": -88.004,
+    "serial": "5478259"
+  },
+  {
+    "address": "1306 S New Wilke Rd.",
+    "business": "Surrey Park Homeowners Assoc. West Pit 2 60 W Endpoints",
+    "description": "",
+    "lat": 42.05861,
+    "lng": -88.00635,
+    "serial": "5145093"
+  },
+  {
+    "address": "1804 N Normandy Ct.",
+    "business": "Arlington On The Ponds-North 60 W Endpoints",
+    "description": "",
+    "lat": 42.10864,
+    "lng": -87.96283,
+    "serial": "7194349"
+  },
+  {
+    "address": "802 E Northwest Highway Ut001",
+    "business": "Marianos Supermarket",
+    "description": "North Pit",
+    "lat": 42.08084,
+    "lng": -87.97201,
+    "serial": "09914808"
+  },
+  {
+    "address": "802 E Northwest Highway Ut002",
+    "business": "Marianos Supermarket",
+    "description": "South Pit (Need Long Ladder To Enter)",
+    "lat": 42.07985,
+    "lng": -87.97203,
+    "serial": "00810229"
+  },
+  {
+    "address": "200 E Northwest Hwy",
+    "business": "Friendship Park Fountain 60 W Endpoints",
+    "description": "",
+    "lat": 42.0832,
+    "lng": -87.98041,
+    "serial": "16061372"
+  },
+  {
+    "address": "1500 W Northwest Hwy",
+    "business": "Frontier Development Condos 60 W Endpoints",
+    "description": "Corner Of Race And Northwest Hwy",
+    "lat": 42.09258,
+    "lng": -88.00175,
+    "serial": "7123401"
+  },
+  {
+    "address": "1456 E Northwest Hwy Ut",
+    "business": "Pit Meter For Iriigation Of Townehomes. One Inch Meter Has B-Box Outside",
+    "description": "Pit In Grass Between 1454 And 1458 East Northwest Highway.",
+    "lat": 42.07597,
+    "lng": -87.96415,
+    "serial": "12964451"
+  },
+  {
+    "address": "814 W Northwest Hwy.",
+    "business": "Tekserve Pos 50 W Endpoint",
+    "description": "",
+    "lat": 42.09258,
+    "lng": -88.0016,
+    "serial": "05753672"
+  },
+  {
+    "address": "1213 E Oakton St",
+    "business": "St. Viators Ball Field Pit",
+    "description": "North Side Of Ball Field Near Parking Lot",
+    "lat": 42.09354,
+    "lng": -87.9685,
+    "serial": "10906107"
+  },
+  {
+    "address": "800 W Oakton St",
+    "business": "Lutheran Home 60 W Endpoints",
+    "description": "",
+    "lat": 42.09685,
+    "lng": -87.99471,
+    "serial": "9609842"
+  },
+  {
+    "address": "3220 N Old Arl Hts Rd Ut",
+    "business": "Lexington Heritage Town Homes",
+    "description": "Pit Two Of Two",
+    "lat": 42.13458,
+    "lng": -87.98056,
+    "serial": "G17269581"
+  },
+  {
+    "address": "3400 N Old Arlington Hts Rd Ut",
+    "business": "Timber Court Condos South Pit 2",
+    "description": "",
+    "lat": 42.13693,
+    "lng": -87.98065,
+    "serial": "00703668"
+  },
+  {
+    "address": "3420 N Old Arlington Hts Rd Ut",
+    "business": "Timber Court Condos North Pit 1",
+    "description": "",
+    "lat": 42.13759,
+    "lng": -87.98151,
+    "serial": "00617995"
+  },
+  {
+    "address": "2754 N Old Buffalo Grove Rd",
+    "business": "Brook Run Apartments Pit 2 West 60 W Endpoints",
+    "description": "Pit 2 West",
+    "lat": 42.12572,
+    "lng": -87.96526,
+    "serial": "7177205"
+  },
+  {
+    "address": "2754 N Old Buffalo Grove Rd.",
+    "business": "Brook Run Apartments Pit 1 East 60 W Endpoints",
+    "description": "Pit 1 East",
+    "lat": 42.12652,
+    "lng": -87.96184,
+    "serial": "7132466"
+  },
+  {
+    "address": "210 E Orchard St.",
+    "business": "O'Leary 60 W Endpoints",
+    "description": "Four Feet South Of 827 South  Arlington Heights Road Near Side Walk",
+    "lat": 42.06877,
+    "lng": -87.98026,
+    "serial": "06705633"
+  },
+  {
+    "address": "20 E Palatine Rd Ut",
+    "business": "Enclaves Pit 1 East",
+    "description": "Evergreen And Palatine Rd",
+    "lat": 42.11033,
+    "lng": -87.98242,
+    "serial": "D7123228"
+  },
+  {
+    "address": "445 E Palatine Rd.",
+    "business": "Town And Country West Pit 60 W Endpoints",
+    "description": "In Front Of Walgreens",
+    "lat": 42.10752,
+    "lng": -87.98023,
+    "serial": "5494713"
+  },
+  {
+    "address": "445 E Palatine Rd.",
+    "business": "Town And Country East Pit 60 W Endpoints",
+    "description": "Behind Burger King Near Drive Up",
+    "lat": 42.10752,
+    "lng": -87.97414,
+    "serial": "6092151"
+  },
+  {
+    "address": "585 E Palatine Rd.",
+    "business": "Gap Store 60 W Endpoints",
+    "description": "",
+    "lat": 42.10957,
+    "lng": -87.97627,
+    "serial": "7068917"
+  },
+  {
+    "address": "1145 E Palatine Road",
+    "business": "Care Animal Hospital",
+    "description": "",
+    "lat": 42.10986,
+    "lng": -87.96945,
+    "serial": "00817335"
+  },
+  {
+    "address": "315 W Park Pl",
+    "business": "Townhomes",
+    "description": "",
+    "lat": 42.08724,
+    "lng": -87.98752,
+    "serial": "06734108"
+  },
+  {
+    "address": "434 W Park St",
+    "business": "Our Lady Of The Wayside/ Actual Loc. 420 S. Walnut 50W-2",
+    "description": "16 Feet North Of Building Actual Location 420 South Walnut",
+    "lat": 42.07688,
+    "lng": -87.98898,
+    "serial": "D90321023"
+  },
+  {
+    "address": "1755 W Partridge Ln.",
+    "business": "Pheasant Trail 60 W Endpoints",
+    "description": "",
+    "lat": 42.15044,
+    "lng": -88.00422,
+    "serial": "D7135162"
+  },
+  {
+    "address": "4221 N Pheasant Trail Ct.",
+    "business": "Pheasant Trail 60 W Endpoints",
+    "description": "",
+    "lat": 42.15172,
+    "lng": -88.00428,
+    "serial": "7134977"
+  },
+  {
+    "address": "375 E Rand Rd",
+    "business": "Pep Boys 60 W Endpoints",
+    "description": "",
+    "lat": 42.11021,
+    "lng": -87.97902,
+    "serial": "9405012"
+  },
+  {
+    "address": "600 E Rand Rd",
+    "business": "Garden Fresh Pit 1 60 W Endpoints",
+    "description": "",
+    "lat": 42.10759,
+    "lng": -87.97254,
+    "serial": "D7115158"
+  },
+  {
+    "address": "600 E Rand Rd",
+    "business": "Garden Fresh Pit 2 60 W Endpoints",
+    "description": "",
+    "lat": 42.10954,
+    "lng": -87.97201,
+    "serial": "DD7115200"
+  },
+  {
+    "address": "630 E Rand Rd",
+    "business": "Olive Garden Restaurant 60 W Endpoints",
+    "description": "",
+    "lat": 42.10911,
+    "lng": -87.97477,
+    "serial": "7123225"
+  },
+  {
+    "address": "640 E Rand Rd",
+    "business": "Chili'S Restaurant High Line 60 W Endpoints",
+    "description": "",
+    "lat": 42.1085,
+    "lng": -87.97392,
+    "serial": "7155370"
+  },
+  {
+    "address": "640 E Rand Rd",
+    "business": "Chili'S Restaurant Low Line",
+    "description": "",
+    "lat": 42.1085,
+    "lng": -87.97392,
+    "serial": "D7155370"
+  },
+  {
+    "address": "640 E Rand Rd",
+    "business": "Chili'S Restaurant Fire Line Dc Meter",
+    "description": "",
+    "lat": 42.1085,
+    "lng": -87.97392,
+    "serial": "D7155370"
+  },
+  {
+    "address": "644 E Rand Rd",
+    "business": "Southpoint Shopping Center Pit 1 60 W Endpoints",
+    "description": "",
+    "lat": 42.10807,
+    "lng": -87.97334,
+    "serial": "7123304"
+  },
+  {
+    "address": "644 E Rand Rd",
+    "business": "Southpoint Shopping Center Pit 2",
+    "description": "",
+    "lat": 42.10648,
+    "lng": -87.96978,
+    "serial": "7123219"
+  },
+  {
+    "address": "1555 E Rand Rd",
+    "business": "Roto Lincoln Mercury L19653030 H19653103 F19653086",
+    "description": "",
+    "lat": 42.10058,
+    "lng": -87.96282,
+    "serial": "5470785"
+  },
+  {
+    "address": "1700 E Rand Rd",
+    "business": "Target Pit 1 60W Erts",
+    "description": "",
+    "lat": 42.10118,
+    "lng": -87.96315,
+    "serial": "5155175"
+  },
+  {
+    "address": "1700 E Rand Rd",
+    "business": "Target Pit 2",
+    "description": "",
+    "lat": 42.10258,
+    "lng": -87.96108,
+    "serial": "5100309"
+  },
+  {
+    "address": "1 W Rand Rd",
+    "business": "Brixmore 3 East 60W Erts",
+    "description": "In East Parking Lot 60 Feet From North Entrance 60 Feet From A.H. Road",
+    "lat": 42.11216,
+    "lng": -87.98079,
+    "serial": "9900247"
+  },
+  {
+    "address": "600 W Rand Rd",
+    "business": "Stonebridge Hill  Northeast Pit 2 60W Erts",
+    "description": "",
+    "lat": 42.11846,
+    "lng": -87.98542,
+    "serial": "D5145094"
+  },
+  {
+    "address": "600 W Rand Rd",
+    "business": "Stonebridge Hill Northwest Pit 3 60W Erts",
+    "description": "",
+    "lat": 42.12365,
+    "lng": -87.99302,
+    "serial": "D5154980"
+  },
+  {
+    "address": "600 W Rand Rd",
+    "business": "Stonebridge Hill  Southeast Pit 1 60W Erts",
+    "description": "",
+    "lat": 42.11795,
+    "lng": -87.9873,
+    "serial": "D5124604"
+  },
+  {
+    "address": "1058 W Rand Rd",
+    "business": "Strip Mall Master Meter Pit 60W Erts",
+    "description": "Behind Essex Place Townhomes",
+    "lat": 42.12413,
+    "lng": -87.99431,
+    "serial": "D7123231"
+  },
+  {
+    "address": "1091 W Rand Rd",
+    "business": "Greenwood Place Pit 1 60W Erts",
+    "description": "",
+    "lat": 42.12285,
+    "lng": -87.99593,
+    "serial": "9701865"
+  },
+  {
+    "address": "1091 W Rand Rd",
+    "business": "Greenwood Place Pit 2 60W Erts",
+    "description": "",
+    "lat": 42.12243,
+    "lng": -87.99804,
+    "serial": "9701866"
+  },
+  {
+    "address": "10 W Rand Rd Ut",
+    "business": "Pit 1 East Robin Realty",
+    "description": "",
+    "lat": 42.11571,
+    "lng": -87.98063,
+    "serial": "5100320"
+  },
+  {
+    "address": "100 W Rand Rd Ut",
+    "business": "Robin Realty Pit 2 West",
+    "description": "",
+    "lat": 42.11558,
+    "lng": -87.98443,
+    "serial": "5019875"
+  },
+  {
+    "address": "115 W Rand Rd Ut001",
+    "business": "Brixmore Pit 1 West",
+    "description": "Helena Plaza East Entrance 5 Feet East Of Driveway",
+    "lat": 42.11498,
+    "lng": -87.98426,
+    "serial": "7135662"
+  },
+  {
+    "address": "115 W Rand Rd Ut002",
+    "business": "Brixmore Pit 2 Middle 60W Erts",
+    "description": "Main Entrance In Parking Lot Island. Look For Decrative Rocks.",
+    "lat": 42.11336,
+    "lng": -87.98184,
+    "serial": "7147636"
+  },
+  {
+    "address": "601 W Rand Rd.",
+    "business": "Fountains Condominiums East Pit 1",
+    "description": "20 Feet South Of Rand Near East Entrance",
+    "lat": 42.11902,
+    "lng": -87.99007,
+    "serial": "0008581"
+  },
+  {
+    "address": "601 W Rand Rd.",
+    "business": "Fountains Condominiums West Pit 2",
+    "description": "20 Feet South Of Rand Near West Entrance",
+    "lat": 42.12023,
+    "lng": -87.99194,
+    "serial": "0108175"
+  },
+  {
+    "address": "3350 N Ridge Av",
+    "business": "Ge Healthcare 60W Erts",
+    "description": "",
+    "lat": 42.13537,
+    "lng": -87.99156,
+    "serial": "D0002455"
+  },
+  {
+    "address": "300 N Ridge Av.",
+    "business": "Molon Motor 60W Erts",
+    "description": "Ne Corner Of Ridge And Eastman In Parkway",
+    "lat": 42.08564,
+    "lng": -87.9904,
+    "serial": "7135032"
+  },
+  {
+    "address": "660 N Ridge Av.",
+    "business": "Olympic Pool Drinking Fountain 50W-1",
+    "description": "Drinking Fountain Pit",
+    "lat": 42.08979,
+    "lng": -87.99042,
+    "serial": "83329150"
+  },
+  {
+    "address": "3060 W Salt Creek Ln",
+    "business": "Northwest Community Hospital Offices",
+    "description": "In Grass Island In Front",
+    "lat": 42.09198,
+    "lng": -88.01998,
+    "serial": "H180026266"
+  },
+  {
+    "address": "4250 N Schaefer Rd",
+    "business": "Arlington Trails Condos East Pit 60W Erts",
+    "description": "East Pit",
+    "lat": 42.15294,
+    "lng": -87.99966,
+    "serial": "9307626"
+  },
+  {
+    "address": "4216 N Schaefer Rd.",
+    "business": "Pheasant Trail 60W Erts",
+    "description": "",
+    "lat": 42.15229,
+    "lng": -87.99983,
+    "serial": "7194498"
+  },
+  {
+    "address": "215 E Seegers Rd.",
+    "business": "Tvo Tanglewood Llc Pit 3",
+    "description": "30 Feet Ne Of 321 East Seegers",
+    "lat": 42.05012,
+    "lng": -87.97764,
+    "serial": "5155176"
+  },
+  {
+    "address": "1500 W Shure Dr.",
+    "business": "Jones, Lang And Lasalle Pit 2 East 60W Erts",
+    "description": "Pit Two East",
+    "lat": 42.13709,
+    "lng": -88.00037,
+    "serial": "7134975"
+  },
+  {
+    "address": "1500 W Shure Dr.",
+    "business": "Jones, Lang And Lasalle Pit 1 West",
+    "description": "Pit One West",
+    "lat": 42.1371,
+    "lng": -88.00137,
+    "serial": "7135045"
+  },
+  {
+    "address": "1501 W Shure Dr.",
+    "business": "Motorola- Possible Irrigation",
+    "description": "",
+    "lat": 42.13666,
+    "lng": -87.99823,
+    "serial": "6034290"
+  },
+  {
+    "address": "2900 N Silver Lake Rd",
+    "business": "Lake Arlington Towne Pit 10 60W Erts",
+    "description": "Actual Location 1908 N Silver Lake Rd",
+    "lat": 42.1101,
+    "lng": -87.94819,
+    "serial": "D9205882"
+  },
+  {
+    "address": "2900 N Silver Lake Rd",
+    "business": "Lake Arlington Towne Pit 9 50W-2",
+    "description": "Actual Location 2016 N Silver Lake Rd",
+    "lat": 42.11211,
+    "lng": -87.94794,
+    "serial": "D8025620"
+  },
+  {
+    "address": "3400 W Stonegate Blv",
+    "business": "Arlington One Development 50W-1 Erts",
+    "description": "On Rohlwing Rd. 24 Feet From Street Next To North Drive. Future Address 3400 West Stonegate Blvd Ut001",
+    "lat": 42.0911,
+    "lng": -88.0265,
+    "serial": "6066925"
+  },
+  {
+    "address": "3400 W Stonegate Blv Ut002",
+    "business": "Arlington One Development",
+    "description": "Middle Pit Future Address 3400 West Stonegate Blvd Ut002",
+    "lat": 42.09011,
+    "lng": -88.0265,
+    "serial": "13857320"
+  },
+  {
+    "address": "3400 W Stonegate Blv Ut003",
+    "business": "Arlington One Development",
+    "description": "East Pit Future Address 3400 West Stonegate Blvd Ut003",
+    "lat": 42.08865,
+    "lng": -88.02375,
+    "serial": "13949497"
+  },
+  {
+    "address": "851 W Thomas St.",
+    "business": "Luther Village Pit 2 60W Erts",
+    "description": "",
+    "lat": 42.10272,
+    "lng": -87.99395,
+    "serial": "D8025578"
+  },
+  {
+    "address": "1900 E Thomas St. Ut002",
+    "business": "Hersey High School",
+    "description": "Near Track Field",
+    "lat": 42.10462,
+    "lng": -87.95729,
+    "serial": "89929993"
+  },
+  {
+    "address": "2496 E Towne Blv",
+    "business": "Lake Arlington Towne Pit 1 Of2 100W Erts",
+    "description": "Actual Location 2472 East Towne",
+    "lat": 42.11276,
+    "lng": -87.95209,
+    "serial": "D7200181"
+  },
+  {
+    "address": "2496 E Towne Blv",
+    "business": "Lake Arlington Towne Pit 2 Of 2 100W Erts",
+    "description": "Actual Location 2092 Lake Arlington Dr",
+    "lat": 42.11344,
+    "lng": -87.95144,
+    "serial": "D7200180"
+  },
+  {
+    "address": "40 E University Dr.",
+    "business": "Van Riet Folkerson Pt. 60W Erts",
+    "description": "",
+    "lat": 42.13281,
+    "lng": -87.98213,
+    "serial": "5094986"
+  },
+  {
+    "address": "3750 N Ventura Dr.",
+    "business": "Sprint Communications 60W Erts",
+    "description": "Near Silver Fire Connection 5 Feet East Of Parking Lot",
+    "lat": 42.14376,
+    "lng": -88.00121,
+    "serial": "D9706634"
+  },
+  {
+    "address": "3820 N Ventura Dr.",
+    "business": "Ddc 60W Erts",
+    "description": "15 Feet North Of Sign Near Pine Tree",
+    "lat": 42.14527,
+    "lng": -88.00108,
+    "serial": "D7123224"
+  },
+  {
+    "address": "1120 N Village Dr.",
+    "business": "Luther Village Pit 1 60W Erts",
+    "description": "",
+    "lat": 42.09622,
+    "lng": -87.99141,
+    "serial": "8025585"
+  },
+  {
+    "address": "3700 N Wilke Rd",
+    "business": "Marriot 60W Erts",
+    "description": "",
+    "lat": 42.14355,
+    "lng": -88.00466,
+    "serial": "D7155372"
+  },
+  {
+    "address": "4251 N Wilke Rd",
+    "business": "Arlington Trails Condos 60W Erts",
+    "description": "Se Corner Of Wilke And Hawkes",
+    "lat": 42.15305,
+    "lng": -88.00426,
+    "serial": "DD9308464"
+  },
+  {
+    "address": "3105 N Wilke Rd.",
+    "business": "Enterprise Office Campus Pit 1 South 60W Erts",
+    "description": "Hamilton Partners Pit 1 South",
+    "lat": 42.13199,
+    "lng": -88.0042,
+    "serial": "D7147670"
+  },
+  {
+    "address": "3105 N Wilke Rd.",
+    "business": "Enterprise Office Campus Pit 2 North 60W Erts",
+    "description": "Hamilton Partners Pit 2 North",
+    "lat": 42.13331,
+    "lng": -88.00413,
+    "serial": "D7147677"
+  },
+  {
+    "address": "3231 N Wilke Rd.",
+    "business": "Arlington Ridge Llc Pit 1 North",
+    "description": "Arlington Ridge Llc Pit 1 North",
+    "lat": 42.13437,
+    "lng": -88.00409,
+    "serial": "D6086924"
+  },
+  {
+    "address": "3231 N Wilke Rd.",
+    "business": "Arlington Ridge Llc Pit 2 South 60W Erts",
+    "description": "Arlington Ridge Llc Pit 2 South",
+    "lat": 42.13335,
+    "lng": -88.00415,
+    "serial": "D6086923"
+  },
+  {
+    "address": "660 E Windgate Ct",
+    "business": "Windgate East Pit  100W Erts",
+    "description": "Located Near Wingate Entrance North Side Of Street In Parkway",
+    "lat": 42.05248,
+    "lng": -87.97553,
+    "serial": "D7134940"
+  },
+  {
+    "address": "660 E Windgate Ct",
+    "business": "Windgate West Pit 100W Erts",
+    "description": "Southwest Corner Of Subdivision Near Fence",
+    "lat": 42.05238,
+    "lng": -87.97772,
+    "serial": "D7135696"
+  },
+  {
+    "address": "2201 N Windsor Dr Ut",
+    "business": "Park District Water Feature",
+    "description": "",
+    "lat": 42.11504,
+    "lng": -87.96407,
+    "serial": "H13936710"
+  },
+  {
+    "address": "1604 N Windsor Dr.",
+    "business": "Courts Of Windsor 60W Erts",
+    "description": "",
+    "lat": 42.10484,
+    "lng": -87.96602,
+    "serial": "DD7135073"
+  },
+  {
+    "address": "1638 N Windsor Dr.",
+    "business": "Courts Of Windsor 60W Erts",
+    "description": "",
+    "lat": 42.10617,
+    "lng": -87.96631,
+    "serial": "D7135693"
+  },
+  {
+    "address": "699 E Wing St Ut001",
+    "business": "Arlington Crossing",
+    "description": "Arlington Crossing",
+    "lat": 42.08318,
+    "lng": -87.97376,
+    "serial": "10908914"
+  },
+  {
+    "address": "1433 W Woods Dr. Ut",
+    "business": "The Pointe Properties Ltd. Pit 1 East 60W Erts",
+    "description": "Pit 1 East Low Oxygen",
+    "lat": 42.12464,
+    "lng": -87.99863,
+    "serial": "D713300"
+  },
+  {
+    "address": "1444 W Woods Dr. Ut",
+    "business": "The Pointe Properties Ltd. Pit 2 West 100W Erts",
+    "description": "Pit 2 West Low Oxygen",
+    "lat": 42.1268,
+    "lng": -88.00156,
+    "serial": "D7123322"
+  },
+  {
+    "address": "840 E Kensington Rd",
+    "business": "Kensington School",
+    "description": "East Side near fence in line with FACP Room",
+    "lat": 42.081589,
+    "lng": -87.973208,
+    "serial": "H17327977"
+  },
+  {
+    "address": "711 E Palatine Rd",
+    "business": "Chipolte (Southpoint Plaza)",
+    "description": "In parking spot near curb in front of AT&T",
+    "lat": 42.109576,
+    "lng": -87.973208,
+    "serial": "20072799"
+  },
+  {
+    "address": "257 Grant Street",
+    "business": "Corps of Engineers",
+    "description": "North side inside gate",
+    "lat": 40.7051046,
+    "lng": -89.5670445,
+    "serial": "27445323"
+  },
+  {
+    "address": "2735 Dr. Martin Luther King Jr. Drive",
+    "business": "Peoria Park District",
+    "description": "At lincoln ave and MLD Dr split North side in gras near hot box",
+    "lat": 40.6816978,
+    "lng": -89.6396020,
+    "serial": "27771317"
+  },
+  {
+    "address": "530 NE Glen oak Avenue",
+    "business": "St Francis Medical Center",
+    "description": "SW Parking garage corner",
+    "lat": 40.703417,
+    "lng": -89.5900371,
+    "serial": "27445322"
+  },
+  {
+    "address": "530 NE Glen ak Avenue",
+    "business": "St Francis Medical Center",
+    "description": "Cancer Institute entrance SE across from other pit",
+    "lat": 40.7034932,
+    "lng": -89.5896944,
+    "serial": "27445321"
+  },
+  {
+    "address": "3737 W Reservoir Boulevard",
+    "business": "Woodridge Manor",
+    "description": "NE corner by driveway",
+    "lat": 40.7324626,
+    "lng": -89.6521554,
+    "serial": "27445325"
+  },
+  {
+    "address": "740 Janes Avenue",
+    "business": "MD4 Bolingbrook",
+    "description": "South pit, east of building",
+    "lat": 41.7211611,
+    "lng": -88.0383386,
+    "serial": "70351544"
+  },
+  {
+    "address": "714 S Weber Road",
+    "business": "Christian Brothers Auto",
+    "description": "West side of building, east side of street",
+    "lat": 41.6742376,
+    "lng": -88.1242421,
+    "serial": "64196509"
+  },
+  {
+    "address": "1281 Claar Boulevard",
+    "business": "The Learning Experience",
+    "description": "NW corner by driveway",
+    "lat": 41.6746481,
+    "lng": -88.1239960,
+    "serial": "70351375"
+  },
+  {
+    "address": "215 North Weber Road",
+    "business": "MD2 Bolingbrook",
+    "description": "West side middle of building in parking spot",
+    "lat": 41.7010088,
+    "lng": -88.1256053,
+    "serial": "70351371"
+  },
+  {
+    "address": "1001 W Bluff Road",
+    "business": "RJW Logistics",
+    "description": "North side, center of building in lot across from FACP",
+    "lat": 41.6767236,
+    "lng": -88.0440913,
+    "serial": "64156680"
+  },
+  {
+    "address": "901 W Bluff Road",
+    "business": "Geodis",
+    "description": "SE in trailer parking spot",
+    "lat": 41.6746118,
+    "lng": -88.0466169,
+    "serial": "64156679"
+  }
+]
