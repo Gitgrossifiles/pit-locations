@@ -1950,5 +1950,125 @@
     "lat": 41.6746118,
     "lng": -88.0466169,
     "serial": "64156679"
-  }
+  },
+  {
+    "address": "300 Keokuk Street",
+    "business": "Lincoln College",
+    "description": "North of Gym parking lot in grass",
+    "lat": 40.1589779,
+    "lng": -89.3596303,
+    "serial": "27533692"
+  },
+  {
+    "address": "930 IL Route 121",
+    "business": "IAWC",
+    "description": "IAWC Well 7",
+    "lat": 40.0526418,
+    "lng": -89.2817705,
+    "serial": "27873143"
+  },
+  {
+    "address": "1758 State Route 54",
+    "business": "AG Land FS",
+    "description": "In Lot Near trailers east of tracks",
+    "lat": 40.0146659,
+    "lng": -89.2647448,
+    "serial": "27401596"
+  },
+  {
+    "address": "930 IL Route 121",
+    "business": "IAWC",
+    "description": "Well 5",
+    "lat": 40.0527719,
+    "lng": -89.2818033,
+    "serial": "27445328"
+  },
+  {
+    "address": "1583 700th Street",
+    "business": "Herrin Fertilizer",
+    "description": "'Window well' east side near tracks",
+    "lat": 40.0181201,
+    "lng": -89.2952751,
+    "serial": "27401597"
+  },
+  {
+    "address": "930 Il Route 121",
+    "business": "IAWC",
+    "description": "Well 6",
+    "lat": 40.0525848,
+    "lng": -89.2817705,
+    "serial": "27546211"
+  },
+  {
+    "address": "861 S State Street",
+    "business": "Lincoln Dev. Ctr/Lincoln Estates",
+    "description": "East end parking lot",
+    "lat": 40.1385637,
+    "lng": -89.3772967,
+    "serial": "28006588"
+  },
+  {
+    "address": "861 S State Street",
+    "business": "Illinois Department of Juvenile Justice",
+    "description": "West of State, south of private drive north of kickapoo",
+    "lat": 40.1407426,
+    "lng": -89.3774563,
+    "serial": "28006589"
+  },
+  {
+    "address": "861 S State Street",
+    "business": "Lincoln Dev. Ctr/Lincoln Estates",
+    "description": "SE Corner 1st and Stringer, north of driveway",
+    "lat": 40.1428332,
+    "lng": -89.3828887,
+    "serial": "27569884"
+  },
+  {
+    "address": "200 5th Street",
+    "business": "Regional Housing SS",
+    "description": "North side of I-55BL West of sign",
+    "lat": 40.1470651,
+    "lng": -89.3702881,
+    "serial": "27546212"
+  },
+  {
+    "address": "1200 Wyatt Avenue",
+    "business": "Lincoln Community High School",
+    "description": "1000 Railer Way, east of sidewalk near hydrant",
+    "lat": 40.1371852,
+    "lng": -89.3581843,
+    "serial": "27546209"
+  },
+  {
+    "address": "340 Madigan Drive",
+    "business": "Roanoke Concrete Products",
+    "description": "In grass east of madigan south of driveway",
+    "lat": 40.1515186,
+    "lng": -89.4078883,
+    "serial": "27430799"
+  },
+  {
+    "address": "1601 5th Street",
+    "business": "International Paper Company",
+    "description": "East side building in grass off Lincoln Pkwy",
+    "lat": 40.1459462,
+    "lng": -89.3869010,
+    "serial": "27533688"
+  },
+  {
+    "address": "1601 Connolley Road",
+    "business": "Sysco Central",
+    "description": "at bend of madigan and sysco dr in grass",
+    "lat": 40.1508836,
+    "lng": -89.4081887,
+    "serial": "27546210"
+  },
+  {
+    "address": "911 Pekin Street",
+    "business": "Logan County Complex",
+    "description": "In grass west of sherman st",
+    "lat": 40.1454203,
+    "lng": -89.3587804,
+    "serial": "27533691"
+  },
 ]
